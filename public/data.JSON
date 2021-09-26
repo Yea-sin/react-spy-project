@@ -1,0 +1,85 @@
+[
+    {
+        "name":"Tom Cruise",
+        "role":"Actor",
+        "country":"USA",
+        "age":59,
+        "image":"https://www.biography.com/.image/t_share/MTc5ODc1NTM4NjMyOTc2Mzcz/gettyimages-693134468.jpg",
+        "id":1,
+        "salary":"85.63"
+    },
+    {
+        "name":"Daniel Craig",
+        "role":"Actor",
+        "country":"UK",
+        "age":53,"image":"https://www.cheatsheet.com/wp-content/uploads/2021/09/daniel-craig-first-james-bond.jpg","id":2,
+        "salary":"80.23"
+    },
+    {
+        "name":"Keanu Reeves",
+        "role":"Actor",
+        "country":"Canada",
+        "age":57,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%2846806576944%29_%28cropped%29.jpg/1200px-Reuni%C3%A3o_com_o_ator_norte-americano_Keanu_Reeves_%2846806576944%29_%28cropped%29.jpg","id":3,
+        "salary":"79.33"
+    },
+    {
+        "name":"Angelina jolie",
+        "role":"Actress",
+        "country":"USA",
+        "age":46,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Angelina_Jolie_%2848462859552%29_%28cropped%29.jpg/1200px-Angelina_Jolie_%2848462859552%29_%28cropped%29.jpg",
+        "id":4,
+        "salary":"73.83"
+    },
+    {"name":"Jason Statham",
+        "role":"Actor",
+        "country":"UK",
+        "age":54,"image":"https://deadline.com/wp-content/uploads/2021/08/jason-statham-e1630082078583.jpg","id":5,
+        "salary":"70.83"
+    },
+    {
+        "name":"Brand Pitt",
+        "role":"Actor",
+        "country":"USA",
+        "age":49,
+        "image":"https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY3MDUxMjkzMjI1OTIwMTcz/brad-pitt-attends-the-premiere-of-20th-century-foxs--square.jpg",
+        "id":6,
+        "salary":"75.83"
+    },
+    {
+        "name":"Will Smith",
+        "role":"Actor",
+        "country":"USA",
+        "age":53,
+        "image":"https://www.biography.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTgwNTA3MzM1ODM4NDEwMDg4/will-smith-attends-varietys-creative-impact-awards-and-10-directors-to-watch-brunch-at-the-parker-palm-springs-on-january-3-2016-in-palm-springs-california-photo-by-jerod-harrisgetty-images.jpg",
+        "id":7,
+        "salary":"69.83"
+    },
+    {
+        "name":"Dwayne Johnson",
+        "role":"Actor",
+        "country":"USA",
+        "age":59,
+        "image":"https://cdn.britannica.com/60/222660-050-064DBA89/Dwayne-Johnson-AKA-The-Rock-2019.jpg","id":8,
+        "salary":"78.63"
+    },
+    {
+        "name":"Gal Gadot",
+        "role":"Actress",
+        "country":"Israel",
+        "age":36,
+        "image":"https://i.insider.com/6082fd9d1041d50019f2df60?width=1136&format=jpeg",
+        "id":9,
+        "salary":"58.83"
+    },
+    {
+        "name":"Bruce Willis",
+        "role":"Actor",
+        "country":"USA",
+        "age":66,
+        "image":"https://img.discogs.com/ZmYvyghCL_5qJN2eVWs72KMHNXs=/600x741/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-252793-1564820941-1083.jpeg.jpg",
+        "id":10,
+        "salary":"60.83"
+    }
+]

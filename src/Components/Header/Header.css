@@ -1,0 +1,13 @@
+/* fonts import*/
+
+.header-container{
+    background-color: cadetblue;
+    border-bottom: 4px solid rgb(13, 119, 151);
+    padding: 10px;
+}
+.header-container h2,h1{
+    font-family: 'Stick No Bills', sans-serif;
+}
+.header-container p{
+    font-family:monospace;
+}
