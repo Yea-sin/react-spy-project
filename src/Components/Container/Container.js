@@ -14,7 +14,6 @@ const Shop = () => {
     const handleSelect = (select) =>{
         const newSelect = [...selects, select];
         setSelects(newSelect);
-        // console.log(newSelect)
     }
     return (
         <div className='p-3'>
@@ -28,7 +27,8 @@ const Shop = () => {
                     </div>
                 </div>
                 <div className='col-md-3'>
-                    <Selected selects={selects}></Selected>
+                    <Selected select={selects}></Selected>
+                    
                 </div>
             </div>
         </div>
