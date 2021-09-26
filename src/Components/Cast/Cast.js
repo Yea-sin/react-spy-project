@@ -4,7 +4,6 @@ import { faPlus } from '@fortawesome/free-solid-svg-icons'
 
 const Product = (props) => {
     const font = {color:'black'};
-    // console.log(props.handleSelect);
     const element = <FontAwesomeIcon icon={faPlus} />
     const cast = props.cast;
     const {name, image, role, age, salary, country} = cast;

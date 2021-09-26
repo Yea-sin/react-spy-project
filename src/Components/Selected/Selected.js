@@ -3,7 +3,6 @@ import './Selected.css'
 
 const Selected = (props) => {
     const selects = props.select;
-    // console.log(selects)
     const reducer = (prev, current) => prev+parseFloat(current.salary);
     const total = selects.reduce(reducer, 0)
     let name = []
