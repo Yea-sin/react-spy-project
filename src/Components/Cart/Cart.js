@@ -1,15 +1,15 @@
 import React from 'react';
-import './Selected.css'
+import './Cart.css'
 
 const Selected = (props) => {
-    const selects = props.select;
+    const selects = props.cart;
     const reducer = (prev, current) => prev+parseFloat(current.salary);
     const total = selects.reduce(reducer, 0)
-    let name = []
-    for(const item of selects){
-        name =item.name +' , ' + name ;
+    // const name = selects.map(select=>select.name)
+    let name = [];
+    for(const select of selects){
+        name = select.name + ' , ' +name
     }
-    
     return (
         <div className='mt-5 p-5 rounded-start' style={{backgroundColor:'rgb(51 123 90)'}}>
             <h2 className='text-light' style={{fontFamily: 'Stick No Bills, sans-serif', whiteSpace:'nowrap'}}>Selected Casts <i className="bi bi-person-check-fill"></i></h2>

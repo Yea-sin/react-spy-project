@@ -1,10 +1,10 @@
 [
     {
-        "name":"Tom Cruise",
+        "name":"Dwayne Johnson",
         "role":"Actor",
         "country":"USA",
         "age":59,
-        "image":"https://www.biography.com/.image/t_share/MTc5ODc1NTM4NjMyOTc2Mzcz/gettyimages-693134468.jpg",
+        "image":"https://cdn.britannica.com/60/222660-050-064DBA89/Dwayne-Johnson-AKA-The-Rock-2019.jpg",
         "id":1,
         "salary":"85.63"
     },
@@ -57,11 +57,12 @@
         "salary":"69.83"
     },
     {
-        "name":"Dwayne Johnson",
+        "name":"Tom Cruise",
         "role":"Actor",
         "country":"USA",
         "age":59,
-        "image":"https://cdn.britannica.com/60/222660-050-064DBA89/Dwayne-Johnson-AKA-The-Rock-2019.jpg","id":8,
+        "image":"https://www.biography.com/.image/t_share/MTc5ODc1NTM4NjMyOTc2Mzcz/gettyimages-693134468.jpg",
+        "id":8,
         "salary":"78.63"
     },
     {

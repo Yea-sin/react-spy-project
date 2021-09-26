@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Cast from '../Cast/Cast';
-import Selected from '../Selected/Selected';
+import Cart from '../Cart/Cart';
 import './Container.css'
 
 const Shop = () => {
@@ -27,7 +27,7 @@ const Shop = () => {
                     </div>
                 </div>
                 <div className='col-md-3'>
-                    <Selected select={selects}></Selected>
+                    <Cart cart={selects} ></Cart>
                     
                 </div>
             </div>
